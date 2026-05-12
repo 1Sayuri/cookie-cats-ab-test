@@ -10,6 +10,8 @@ Moving the gate from level 30 to level 40 caused a **statistically significant
 0.82 percentage point drop** in 7-day retention (p = 0.0016). Counter to product
 intuition, **earlier friction kept more players coming back**.
 
+![Cookie Cats 7-day retention comparison](retention_comparison.png)
+
 ## The Question
 
 Cookie Cats places a "gate" at a fixed level — a forced wait, ad, or purchase
